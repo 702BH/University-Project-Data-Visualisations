@@ -1,25 +1,6 @@
 University Project : Data Visualisations
 ================
 
-<style>
-blockquote {
-    padding: 10px 20px;
-    margin: 0 0 20px;
-    font-size: 13.5px;
-    border-left: 5px solid #eee;
-}
-
-body {
-text-align: justify;
-font-size: 14pt;
-}
-
-body .main-container {
-max-width: 3600px;
-}
-
-</style>
-
 ------------------------------------------------------------------------
 
 # Introduction
